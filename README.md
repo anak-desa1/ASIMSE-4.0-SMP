@@ -37,7 +37,7 @@ Rancangan ASIMSE 4.0 SMP dalam satu kali login
 
 -website akm (masih dikembangkan)
 
-Cek demo : https://sd.sistemanakdesa.my.id/
+Cek demo : https://smp.sistemanakdesa.my.id/
 akun login demo bisa didapatkan setelah melakukan registrasi
 
 ***************************************************************
