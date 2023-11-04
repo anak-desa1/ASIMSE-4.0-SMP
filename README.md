@@ -15,14 +15,14 @@ Tampilan Form Login :
 Tampilan Akun Login :
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/gambar_akun_login.PNG?raw=true)
 
-
+***************************************************************
 ASIMSE 4.0 (Rp. 25.000)
 - Profile Sekolah (info kegiatan sekolah)
 - Proses PPDB
 - Proses SKL
 - Tampilan Responsive
 - Open Source
-
+***************************************************************
 ASIMSE 4.0 Premium (Rp. 2.500.000)
 - Profile Sekolah (info kegiatan sekolah)
 - Proses PPDB
@@ -65,7 +65,6 @@ password : 12345678
 Akun Demo Website SKL/ALUMNI
 user6@sekolah.sch.id
 password : 12345678
-
 ***************************************************************
 Untuk mendapatakan database aplikasi ini silahkan registrasi di https://sistemanakdesa.my.id/ad/web_daftar/registration
 dengan data yang sebenar-benarnya...
@@ -74,7 +73,7 @@ untuk memastikan bahwa anda pendidik atau bukan.
 ***************************************************************
 Info Lebih lebih lengkap dapat hubungi kami di
 WA : 085805156113
-
+***************************************************************
 
 
 
