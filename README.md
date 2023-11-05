@@ -16,7 +16,7 @@ Tampilan Akun Login :
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/gambar_akun_login.PNG?raw=true)
 
 ***************************************************************
-ASIMSE 4.0 (Rp. 25.000)
+ASIMSE 4.0 (Rp. 250.000)
 - Profile Sekolah (info kegiatan sekolah)
 - Proses PPDB
 - Proses SKL
