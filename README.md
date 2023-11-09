@@ -7,13 +7,13 @@ Sistem Anak Desa berdedikasi dalam memberikan pelayanan jasa perancangan APLIKAS
 “Anak Desa adalah nama sebutan dari pedesaan 'cah ndeso', memotivasi kami yang dari desa terpencil untuk berkembang dan maju. dengan nama Sistem Anak Desa kami berusaha memberikan layanan yang 'lebih' dengan harga relatif ringan ”.
 
 Tampilan Website :
-![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/gambar_home.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/template.PNG?raw=true)
 
 Tampilan Form Login :
-![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/gambar_login.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/login.PNG?raw=true)
 
 Tampilan Akun Login :
-![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/gambar_akun_login.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/dashboard.PNG?raw=true)
 
 ***************************************************************
 ASIMSE 4.0 (Rp. 150.000)
