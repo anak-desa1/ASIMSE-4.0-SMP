@@ -16,7 +16,7 @@ Tampilan Akun Login :
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-SMP/master/dashboard.JPG?raw=true)
 
 ***************************************************************
-ASIMSE 4.0 (Rp. 150.000)
+ASIMSE 4.0 (Rp. 50.000)
 - Profile Sekolah (info kegiatan sekolah)
 - Proses PPDB
 - Proses SKL
@@ -73,6 +73,8 @@ untuk memastikan bahwa anda pendidik atau bukan.
 ***************************************************************
 Info Lebih lebih lengkap dapat hubungi kami di
 WA : 085805156113
+TL Group : https://t.me/+atdjqOYYXho2Yzll
+WA Group : https://chat.whatsapp.com/DjH1cbVAR7dFhaW7tbQ1xh
 ***************************************************************
 
 
